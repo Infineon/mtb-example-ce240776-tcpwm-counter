@@ -5,7 +5,7 @@ This code example demonstrates how to use the TCPWM counter on MCU. The counter 
 
 [View this README on GitHub.](https://github.com/Infineon/mtb-example-ce240776-tcpwm-counter)
 
-[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NzYiLCJTcGVjIE51bWJlciI6IjAwMi00MDc3NiIsIkRvYyBUaXRsZSI6IlBETDogVENQV00gY291bnRlciIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIxLjIuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
+[Provide feedback on this code example.](https://yourvoice.infineon.com/jfe/form/SV_1NTns53sK2yiljn?Q_EED=eyJVbmlxdWUgRG9jIElkIjoiQ0UyNDA3NzYiLCJTcGVjIE51bWJlciI6IjAwMi00MDc3NiIsIkRvYyBUaXRsZSI6IlBETDogVENQV00gY291bnRlciIsInJpZCI6ImtvamkubWl6dW1vdG9AaW5maW5lb24uY29tIiwiRG9jIHZlcnNpb24iOiIxLjMuMCIsIkRvYyBMYW5ndWFnZSI6IkVuZ2xpc2giLCJEb2MgRGl2aXNpb24iOiJNQ0QiLCJEb2MgQlUiOiJBVVRPIiwiRG9jIEZhbWlseSI6IkFVVE8gTUNVIn0=)
 
 
 ## Requirements
@@ -274,6 +274,7 @@ Document title: *CE240776* – *PDL: TCPWM counter*
  1.0.0   | New code example
  1.1.0   | Added support for KIT_XMC52_EVK, KIT_T2G_C-2D-4M_LITE, KIT_T2G-B-H_EVK and KIT_T2G-B-H_LITE and updated to support ModusToolbox&trade; v3.6
  1.2.0   | Added support for KIT_T2G_B-H-16M_LITE, and updated to support ModusToolbox&trade; v3.7
+ 1.3.0   | Updated design.modus of the KIT_T2G_B-H-16M_LITE and KIT_T2G_C-2D-4M_LITE for addressing CLK warning     |
 <br>
 
 
